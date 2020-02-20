@@ -1,3 +1,4 @@
 hello Nilesh
 line 2 added to branch bugfixes
 line 3 added
+line is added for the stash example.
