@@ -1,0 +1,6 @@
+Line 1 added from remote
+<<<<<<< HEAD
+Line 2 added from Local
+=======
+Line 2 added from Remote
+>>>>>>> origin/master
