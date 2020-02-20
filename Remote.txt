@@ -1,2 +1,4 @@
 Line 1 added from remote
 Line 2 added from Local
+Line 3 added from Local
+Line 4 added from Local
